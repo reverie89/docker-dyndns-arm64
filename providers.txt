@@ -1,0 +1,3 @@
+http://freedns.afraid.org/dynamic/update.php?ENTER-YOUR-SECRET-API-HERE
+https://www.duckdns.org/update?domains={YOURVALUE}&token={YOURVALUE}[&ip={YOURVALUE}][&ipv6={YOURVALUE}][&verbose=true][&clear=true]
+https://$USERNAME:$PASSWORD@dynupdate.no-ip.com/nic/update?hostname=$HOST&myip=$NEWIP
